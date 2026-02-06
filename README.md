@@ -68,6 +68,14 @@ El objetivo es replicar un escenario real de análisis para roles como **Marketi
   - Clima **Good**: promedio ≈ **40.35 min** (n=888)
   - Clima **Bad**: promedio ≈ **47.25 min** (n=312)
   - Diferencia promedio: **+6.9 min** con clima Bad
+ 
+## Visualizaciones
+
+### Top 10 barrios por promedio de finalizaciones (Nov 2017)
+![Top 10 barrios](screenshots/top10_barrios.png)
+
+### Top 10 empresas de taxi por número de viajes (15–16 Nov 2017)
+![Top 10 empresas](screenshots/top10_viajes.png)
 
 ---
 
@@ -87,7 +95,7 @@ El análisis muestra que:
 │   ├── moved_project_sql_result_04.csv
 │   ├── moved_project_sql_result_07.csv
 │   └── README_data.md
-├── screenshots/        (opcional)
+├── screenshots/        
 └── requirements.txt
 
 Cómo ejecutar
